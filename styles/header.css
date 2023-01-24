@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+#header_div{
+    display: flex;
+    align-items: center;
+    background-color: red;
+    width: 90vw;
+    height: 12vh;
+}
+
+#plate_name{
+    margin-left: 2vw;
+    font-style: italic;
+    font-weight: bold;
+}

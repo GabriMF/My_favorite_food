@@ -1,0 +1,16 @@
+#ingredients_box{
+    background-color: gray;
+    width: 35vw;
+    margin-left: 4vw;
+    margin-bottom: 3vh;
+}
+
+#cb1{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+label{
+    font-size: x-large;
+    font-weight: 500;
+}

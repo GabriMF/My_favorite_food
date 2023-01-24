@@ -1,0 +1,15 @@
+@import './styles/header.css';
+@import './styles/banner.css';
+@import './styles/ingredients_box.css';
+@import './styles/preparation_box.css';
+@import './styles/time_box.css';
+@import './styles/footer.css';
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}

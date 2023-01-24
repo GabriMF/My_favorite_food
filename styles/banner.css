@@ -1,0 +1,10 @@
+#banner{
+    margin: auto;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+#banner_pic{
+    height: 60vh;
+    width: 90vw;
+}
